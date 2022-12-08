@@ -1,6 +1,6 @@
 pipeline {
     agent {
-        label 'worker-linux'
+        label 'worker-dev'
     } 
     
 
